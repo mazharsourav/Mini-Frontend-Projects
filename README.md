@@ -9,7 +9,7 @@ This project is a simple **QR Code Generator** built with **HTML**, **CSS**, and
 
 ## Live Demo:
 Check out the live version of the project hosted on Vercel:  
-[Live QR Code Generator](https://your-vercel-link.vercel.app)
+[Live QR Code Generator]((https://basicqrgenerator.netlify.app/))
 
 ## Preview:
 ![QR Code Generator Preview](./preview.png)
