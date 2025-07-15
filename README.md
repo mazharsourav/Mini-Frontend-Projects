@@ -9,10 +9,7 @@ This project is a simple **QR Code Generator** built with **HTML**, **CSS**, and
 
 ## Live Demo:
 Check out the live version of the project hosted on Netlify:  
-[Live QR Code Generator]((https://basicqrgenerator.netlify.app/)
-
-## Preview:
-![QR Code Generator Preview](./preview.png)
+Live QR Code Generator - (https://basicqrgenerator.netlify.app/)
 
 ## Installation:
 To run this project locally on your machine, follow these steps:
